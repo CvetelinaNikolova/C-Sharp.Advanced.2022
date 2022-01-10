@@ -1,0 +1,12 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.genruntimeconfig.cache

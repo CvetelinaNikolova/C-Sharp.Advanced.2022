@@ -1,0 +1,13 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\bin\Debug\netcoreapp3.1\2.StackSum.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.csproj.AssemblyReference.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\2.StackSum\obj\Debug\netcoreapp3.1\2.StackSum.genruntimeconfig.cache

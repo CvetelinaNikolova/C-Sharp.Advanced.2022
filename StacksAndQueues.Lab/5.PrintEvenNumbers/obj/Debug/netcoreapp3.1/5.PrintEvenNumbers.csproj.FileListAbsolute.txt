@@ -1,0 +1,13 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\bin\Debug\netcoreapp3.1\5.PrintEvenNumbers.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.csproj.AssemblyReference.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Lab\5.PrintEvenNumbers\obj\Debug\netcoreapp3.1\5.PrintEvenNumbers.genruntimeconfig.cache
