@@ -1,0 +1,13 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csproj.AssemblyReference.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.genruntimeconfig.cache

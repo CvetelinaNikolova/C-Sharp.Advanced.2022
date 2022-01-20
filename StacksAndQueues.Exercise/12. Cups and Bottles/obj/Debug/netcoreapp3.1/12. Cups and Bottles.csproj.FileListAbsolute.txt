@@ -1,0 +1,13 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.AssemblyReference.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.genruntimeconfig.cache
