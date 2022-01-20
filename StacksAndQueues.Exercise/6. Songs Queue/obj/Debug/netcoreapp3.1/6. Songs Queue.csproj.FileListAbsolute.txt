@@ -1,0 +1,13 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.csproj.AssemblyReference.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.genruntimeconfig.cache

@@ -12,22 +12,21 @@ namespace _5._Fashion_Boutique
             int rack = int.Parse(Console.ReadLine());
             int numberOfRacks = 1;
             int currRack = rack;
-            while (clothes.Count != 0)
+            while (clothes.Count!=0)
             {
                 if (currRack-clothes.Peek()>=0)
                 {
                     currRack -= clothes.Pop();
-                    if (currRack==0)
+                    if (currRack==0&&clothes.Count!=0)
                     {
-                        currRack = rack;
                         numberOfRacks++;
+                        currRack = rack;
                     }
                 }
                 else
                 {
-                    currRack = rack;
                     numberOfRacks++;
-                    currRack -= clothes.Pop();
+                    currRack = rack;
                 }
             }
             Console.WriteLine(numberOfRacks);

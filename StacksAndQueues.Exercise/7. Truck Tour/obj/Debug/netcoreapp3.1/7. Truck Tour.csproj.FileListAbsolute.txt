@@ -1,0 +1,13 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.csproj.AssemblyReference.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\StacksAndQueues.Exercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.genruntimeconfig.cache
