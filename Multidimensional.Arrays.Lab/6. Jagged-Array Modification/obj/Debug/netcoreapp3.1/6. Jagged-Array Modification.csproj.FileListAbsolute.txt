@@ -1,0 +1,12 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.genruntimeconfig.cache

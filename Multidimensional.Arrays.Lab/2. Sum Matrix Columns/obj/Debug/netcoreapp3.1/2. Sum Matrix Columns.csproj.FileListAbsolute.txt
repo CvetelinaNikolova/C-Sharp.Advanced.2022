@@ -1,0 +1,13 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp3.1\2. Sum Matrix Columns.genruntimeconfig.cache

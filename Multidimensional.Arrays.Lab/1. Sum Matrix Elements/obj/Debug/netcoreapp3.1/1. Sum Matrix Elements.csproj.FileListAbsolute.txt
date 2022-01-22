@@ -1,0 +1,13 @@
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.exe
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.deps.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.runtimeconfig.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.runtimeconfig.dev.json
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.AssemblyInfo.cs
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.dll
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.pdb
+E:\Education\SoftUni.Advanced.C#\C#.Advanced\Multidimensional.Arrays.Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.genruntimeconfig.cache
